@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MemoryChecker.vcxproj" Id="54556f9c-1e8e-4fbb-827e-df28880edba9" />
+</Solution>
